@@ -1,0 +1,15 @@
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\bin\Debug\net6.0\C_Sharp_Projekt.exe
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\bin\Debug\net6.0\C_Sharp_Projekt.deps.json
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\bin\Debug\net6.0\C_Sharp_Projekt.runtimeconfig.json
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\bin\Debug\net6.0\C_Sharp_Projekt.dll
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\bin\Debug\net6.0\ref\C_Sharp_Projekt.dll
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\bin\Debug\net6.0\C_Sharp_Projekt.pdb
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.csproj.AssemblyReference.cache
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.AssemblyInfoInputs.cache
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.AssemblyInfo.cs
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.csproj.CoreCompileInputs.cache
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.dll
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\ref\C_Sharp_Projekt.dll
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.pdb
+C:\Spremnik\programi\C_Sharp_Projekt\C_Sharp_Projekt\obj\Debug\net6.0\C_Sharp_Projekt.genruntimeconfig.cache

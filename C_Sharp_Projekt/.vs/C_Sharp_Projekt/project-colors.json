@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da23f6c8-21aa-4527-be78-6cfa174530a7": {
+      "ProjectGuid": "da23f6c8-21aa-4527-be78-6cfa174530a7",
+      "DisplayName": "C_Sharp_Projekt",
+      "ColorIndex": 0
+    },
+    "32030fc1-7d0e-48ac-a9d4-690592f74dc3": {
+      "ProjectGuid": "32030fc1-7d0e-48ac-a9d4-690592f74dc3",
+      "DisplayName": "Ishod_2",
+      "ColorIndex": 1
+    },
+    "a51e8fa2-610c-42de-9665-3b3e0f42d6cc": {
+      "ProjectGuid": "a51e8fa2-610c-42de-9665-3b3e0f42d6cc",
+      "DisplayName": "Ishod_6",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "93a62410-17fd-47b2-b851-202fe7de136a": {
+      "ProjectGuid": "93a62410-17fd-47b2-b851-202fe7de136a",
+      "DisplayName": "Ishod_3",
+      "ColorIndex": 3
+    },
+    "70e401ec-7969-45d8-9e3b-57e9093968c8": {
+      "ProjectGuid": "70e401ec-7969-45d8-9e3b-57e9093968c8",
+      "DisplayName": "Ishod_4",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

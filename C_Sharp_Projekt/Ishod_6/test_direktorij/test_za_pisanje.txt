@@ -1,0 +1,3 @@
+Programski unešeni podaci:
+Podatak broj jedan
+Podatak broj dva
